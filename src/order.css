@@ -1,0 +1,44 @@
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.product__section {
+    display: flex;
+    justify-content: center;
+    min-height: 350px;
+}
+
+.product {
+    width: 100%;
+    max-width: 350px;
+    box-sizing: border-box;
+}
+
+.profile__section {
+    display: flex;
+    justify-content: center;
+}
+
+.profile__form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 350px;
+}
+
+.profile__form label {
+    margin-left: .5em;
+}
+
+.profile__form input {
+    margin-bottom: .5em;
+}
+
+.profile__form__controls {
+    display: flex;
+    gap: .5em;
+    margin: 1em 0;
+    justify-content: center;
+}

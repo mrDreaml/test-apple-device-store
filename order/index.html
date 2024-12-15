@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="../src/common.css">
+    <noscript><link rel="stylesheet" href="../src/common.css"></noscript>
+    <link rel="stylesheet" href="../src/order.css">
+    <meta name="description" content="Phone order page">
+</head>
+<body>
+    <header class="header">
+        <h1 class="header__title">
+            Order
+        </h1>
+    </header>
+
+    <main>
+        <section class="product__section">
+            <template id="product">
+                <div class="product">
+                    <div class="product__image-slider"></div>
+                    <div class="product__content">
+                        <div class="product__content__main">
+                            <h1 class="product__content__title"></h1>
+                            <div class="product__content__tags"></div>
+                        </div>
+                        <div class="product__content__secondary">
+                            <span class="product__content__price"></span>
+                        </div>
+                    </div>
+                </div>
+            </template>
+        </section>
+        <section class="profile__section">
+            <form class="profile__form" id="profile-form">
+                <label for="firstName">First name:</label>
+                <input type="text" id="firstName" name="firstName" required maxlength="15">
+                <label for="lastName">Last name:</label>
+                <input type="text" id="lastName" name="lastName" required maxlength="15">
+                <label for="phoneNumber">Phone:</label>
+                <input type="tel" id="phoneNumber" name="phoneNumber" required maxlength="50">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required maxlength="100">
+                <label for="address">Address:</label>
+                <input type="text" id="address" name="address" maxlength="100">
+                <label for="comments">Comments:</label>
+                <textarea id="comments" name="comments" rows="5" maxlength="300"></textarea>
+                <div class="profile__form__controls">
+                    <button class="reject" type="reset">Cancel</button>
+                    <button class="active" type="submit">Order</button>
+                </div>
+            </form>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <nav class="footer__contacts">
+            <a href="mailto:dimaandreev0101@gmail.com">Gmail</a>
+            <a href="https://t.me/progsToProd">Telegram</a>
+            <a href="https://www.linkedin.com/in/dmitriy-andreev-56198417b/">LinkedIn</a>
+        </nav>
+    </footer>
+
+    <script async type="module" src="../src/order.js"></script>
+</body>
+</html>

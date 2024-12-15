@@ -1,0 +1,266 @@
+[
+    {
+      "id": 1,
+      "images": [
+        "iphone_16_proMax_white.webp",
+        "iphone_16_proMax_white_2.webp",
+        "iphone_16_proMax_white_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> white</div>",
+        "<div><b>Mem:</b> 256GB</div>"
+      ],
+      "price": 999,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "white",
+        "256GB"
+      ]
+    },
+    {
+      "id": 2,
+      "images": [
+        "iphone_16_proMax_white.webp",
+        "iphone_16_proMax_white_2.webp",
+        "iphone_16_proMax_white_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> white</div>",
+        "<div><b>Mem:</b> 512GB</div>"
+      ],
+      "price": 1499,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "white",
+        "512GB"
+      ]
+    },
+    {
+      "id": 3,
+      "images": [
+        "iphone_16_proMax_white.webp",
+        "iphone_16_proMax_white_2.webp",
+        "iphone_16_proMax_white_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> white</div>",
+        "<div><b>Mem:</b> 1TB</div>"
+      ],
+      "price": 1999,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "white",
+        "1TB"
+      ]
+    },
+    {
+      "id": 4,
+      "images": [
+        "iphone_16_proMax_milk.webp",
+        "iphone_16_proMax_milk_2.webp",
+        "iphone_16_proMax_milk_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> milk</div>",
+        "<div><b>Mem:</b> 256GB</div>"
+      ],
+      "price": 999,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "milk",
+        "256GB"
+      ]
+    },
+    {
+      "id": 5,
+      "images": [
+        "iphone_16_proMax_milk.webp",
+        "iphone_16_proMax_milk_2.webp",
+        "iphone_16_proMax_milk_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> milk</div>",
+        "<div><b>Mem:</b> 512GB</div>"
+      ],
+      "price": 1399,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "milk",
+        "512GB"
+      ]
+    },
+    {
+      "id": 6,
+      "images": [
+        "iphone_16_proMax_milk.webp",
+        "iphone_16_proMax_milk_2.webp",
+        "iphone_16_proMax_milk_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> milk</div>",
+        "<div><b>Mem:</b> 1TB</div>"
+      ],
+      "price": 1899,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "milk",
+        "1TB"
+      ]
+    },
+    {
+      "id": 7,
+      "images": [
+        "iphone_16_proMax_black.webp",
+        "iphone_16_proMax_black_2.webp",
+        "iphone_16_proMax_black_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> black</div>",
+        "<div><b>Mem:</b> 256GB</div>"
+      ],
+      "price": 1199,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "black",
+        "256GB"
+      ]
+    },
+    {
+      "id": 8,
+      "images": [
+        "iphone_16_proMax_black.webp",
+        "iphone_16_proMax_black_2.webp",
+        "iphone_16_proMax_black_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> black</div>",
+        "<div><b>Mem:</b> 512GB</div>"
+      ],
+      "price": 1399,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "black",
+        "512GB"
+      ]
+    },
+    {
+      "id": 9,
+      "images": [
+        "iphone_16_proMax_black.webp",
+        "iphone_16_proMax_black_2.webp",
+        "iphone_16_proMax_black_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> black</div>",
+        "<div><b>Mem:</b> 1TB</div>"
+      ],
+      "price": 2599,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "black",
+        "1TB"
+      ]
+    },
+    {
+      "id": 10,
+      "images": [
+        "iphone_16_proMax_pink.webp",
+        "iphone_16_proMax_pink_2.webp",
+        "iphone_16_proMax_pink_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> pink</div>",
+        "<div><b>Mem:</b> 256GB</div>"
+      ],
+      "price": 899,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "pink",
+        "256GB"
+      ]
+    },
+    {
+      "id": 11,
+      "images": [
+        "iphone_16_proMax_pink.webp",
+        "iphone_16_proMax_pink_2.webp",
+        "iphone_16_proMax_pink_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> pink</div>",
+        "<div><b>Mem:</b> 512GB</div>"
+      ],
+      "price": 1199,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "pink",
+        "512GB"
+      ]
+    },
+    {
+      "id": 12,
+      "images": [
+        "iphone_16_proMax_pink.webp",
+        "iphone_16_proMax_pink_2.webp",
+        "iphone_16_proMax_pink_3.webp"
+      ],
+      "title": "Iphone 16 Pro Max",
+      "tags": [
+        "<div><b>Color:</b> pink</div>",
+        "<div><b>Mem:</b> 1TB</div>"
+      ],
+      "price": 1599,
+      "searchTags": [
+        "Iphone",
+        "16",
+        "Pro",
+        "Max",
+        "pink",
+        "1TB"
+      ]
+    }
+  ]

@@ -1,0 +1,26 @@
+.search {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3em;
+}
+
+.search__input {
+    font-size: 1em;
+    border-radius: 1em;
+    border: 1px solid var(--borderColor);
+    width: 100%;
+    max-width: 300px;
+    padding: .5em 1em;
+}
+
+.main {
+    min-height: 100vh;
+}
+
+.products {
+    padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2em;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Device Store</title>
+    <link rel="stylesheet" href="./src/app.css">
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="./src/common.css">
+    <noscript><link rel="stylesheet" href="../src/common.css"></noscript>
+    <meta name="description" content="Phones Store">
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <h1 class="header__title">
+                Apple Device Store
+            </h1>
+        </header>
+
+        <main class="main">
+            <section class="search">
+                <input type="text" placeholder="Search..." id="main-search" class="search__input">
+            </section>
+
+            <section class="products" id="products">
+                <template id="product">
+                    <div class="product">
+                        <div class="product__image-slider"></div>
+                        <div class="product__content">
+                            <div class="product__content__main">
+                                <h1 class="product__content__title"></h1>
+                                <div class="product__content__tags"></div>
+                            </div>
+                            <div class="product__content__secondary">
+                                <span class="product__content__price"></span>
+                            </div>
+                            <button class="active">Buy</button>
+                        </div>
+                    </div>
+                </template>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <nav class="footer__contacts">
+                <a href="mailto:dimaandreev0101@gmail.com">Gmail</a>
+                <a href="https://t.me/progsToProd">Telegram</a>
+                <a href="https://www.linkedin.com/in/dmitriy-andreev-56198417b/">LinkedIn</a>
+            </nav>
+        </footer>
+
+        <script async type="module" src="./src/app.js"></script>
+    </div>
+</body>
+</html>
